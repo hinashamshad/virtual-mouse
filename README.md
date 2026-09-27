@@ -1,4 +1,4 @@
-\# 🖐️ Virtual Mouse using Hand Gestures
+&#x20;# 🖐️ Virtual Mouse using Hand Gestures
 
 
 
@@ -50,7 +50,7 @@ Control your computer mouse using just your webcam and hand gestures — no hard
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/virtual-mouse.git
+git clone https://github.com/hinashamshad/virtual-mouse.git
 
 cd virtual-mouse
 
@@ -61,6 +61,4 @@ venv\\Scripts\\activate
 pip install -r requirements.txt
 
 python virtual\_mouse.py
-
-
 
